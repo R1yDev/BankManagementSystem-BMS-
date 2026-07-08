@@ -1,4 +1,4 @@
-Banking Management System (BMS)
+# Banking Management System (BMS) with a graphical interface (GUI) [Full Guide]
 
 ## Role of this project
 This project is a **Java console-based Banking Management System** built to demonstrate common OOP concepts and typical banking functionalities.
