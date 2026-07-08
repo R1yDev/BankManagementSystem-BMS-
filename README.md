@@ -1,4 +1,4 @@
-adm# Banking Management System (BMS)
+Banking Management System (BMS)
 
 ## Role of this project
 This project is a **Java console-based Banking Management System** built to demonstrate common OOP concepts and typical banking functionalities.
