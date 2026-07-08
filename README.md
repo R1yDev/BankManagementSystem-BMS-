@@ -78,6 +78,11 @@ java -cp ../../out Test
 ```
 
 ---
+## class diagram 
+
+![image alt](https://github.com/R1yDev/BankManagementSystem-BMS-/blob/262b2f641c246574c8c0a5180e7d96b7467b423c/BMS/diagram%20class%20png.png)
+[View the presentation](BMS/BMS_representation.pdf)
+---
 
 ## ⚠️ Notes / Limitations
 - **In-memory only** — no real database; all data resets on exit (demonstration purposes).
