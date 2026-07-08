@@ -33,8 +33,8 @@ It provides two main user roles:
 
 ## How to run
 **Login credentials (used in the provided interactive/demo flow):**
-- **Admin**: username : `admin` / password : `admin123`
-- **User**: username : `rayenRT` / password :`pass123`
+- **Admin**: **username** : `admin` / **password** : `admin123`
+- **User**: **username** : `rayenRT` / **password** :`pass123`
 This project supports **two run modes**:
 
 ### Option 1 — Graphic interface (Swing GUI)
