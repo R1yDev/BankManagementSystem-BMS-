@@ -2,6 +2,7 @@
 
 ## 📖 Overview
 A **Java-based Banking Management System** built to demonstrate core OOP concepts alongside typical banking functionalities — featuring both a **Swing GUI** and an **interactive console mode**.
+**you can view the project presentation for more details and explanation** click here [View the presentation](BMS/BMS_representation.pdf)
 
 ---
 
@@ -81,7 +82,6 @@ java -cp ../../out Test
 ## class diagram 
 
 ![image alt](https://github.com/R1yDev/BankManagementSystem-BMS-/blob/262b2f641c246574c8c0a5180e7d96b7467b423c/BMS/diagram%20class%20png.png)
-[View the presentation](BMS/BMS_representation.pdf)
 ---
 
 ## ⚠️ Notes / Limitations
